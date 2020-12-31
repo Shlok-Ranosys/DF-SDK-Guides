@@ -4,8 +4,8 @@ DataFornix: Upgrade from Get ocr v1 to Get ocr v2
 ## This documantation shows how to upgrade existing get_ocr_api v1 to get_ocr_api V2 preview.
 
 ##### 1 **Explanation of server_name and tenant_name**
-  **server_name** Server name is the bases of tenant eniviroment which you are using. The detail is mentioned in the point 10 in tabular format.
-  **tenant_name** Tenant name is the bases of which bank or organisation is consuming get ocr apis. The detail is mentioned in the point 10 in tabular format.
+  **server_name** Server name is the bases of tenant eniviroment which you are using. The detail is mentioned in tabular format.
+  **tenant_name** Tenant name is the bases of which bank or organisation is consuming get ocr apis. The detail is mentioned in tabular format.
   
   **api_token** Api token is random string which is use for tenant authentication.
   
